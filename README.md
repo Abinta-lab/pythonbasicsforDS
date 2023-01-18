@@ -1,2 +1,2 @@
 # pythonbasicsforDS
-Python Basics for DATA Science, AI and Development
+Python Basics for DATA Science, AI and Development.
